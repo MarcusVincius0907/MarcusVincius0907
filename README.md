@@ -21,7 +21,7 @@
  
 <div> 
  
-  <a href="https://www.instagram.com/_marcusvncsl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511958755705&text=Ol%C3%A1%20Marcus!%20Encontrei%20seu%20contato%20atrav%C3%A9s%20do%20Github..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:mvleite0908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-leite-ab751417b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
